@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ReportsCSMS2017", "ReportsCSMS2017\ReportsCSMS2017.rptproj", "{8EFA51AF-2EFC-4898-9E29-398A22C9694F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EFA51AF-2EFC-4898-9E29-398A22C9694F}.Debug|Default.ActiveCfg = Debug
+		{8EFA51AF-2EFC-4898-9E29-398A22C9694F}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{8EFA51AF-2EFC-4898-9E29-398A22C9694F}.DebugLocal|Default.Build.0 = DebugLocal
+		{8EFA51AF-2EFC-4898-9E29-398A22C9694F}.Release|Default.ActiveCfg = Release
+		{8EFA51AF-2EFC-4898-9E29-398A22C9694F}.Release|Default.Build.0 = Release
+		{8EFA51AF-2EFC-4898-9E29-398A22C9694F}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
